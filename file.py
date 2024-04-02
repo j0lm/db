@@ -1,0 +1,3 @@
+class file:
+path = ""
+    tags = []
